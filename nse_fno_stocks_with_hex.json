@@ -1,0 +1,1232 @@
+[
+    {
+        "SEM_SMST_SECURITY_ID": 1023,
+        "SEM_TRADING_SYMBOL": "FEDERALBNK",
+        "SUBSCRIBE_HEX": "1701ff030000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 10243,
+        "SEM_TRADING_SYMBOL": "SYNGENE",
+        "SUBSCRIBE_HEX": "170103280000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1041,
+        "SEM_TRADING_SYMBOL": "FINPIPE",
+        "SUBSCRIBE_HEX": "170111040000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 10440,
+        "SEM_TRADING_SYMBOL": "LUPIN",
+        "SUBSCRIBE_HEX": "1701c8280000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 10577,
+        "SEM_TRADING_SYMBOL": "KRBL",
+        "SUBSCRIBE_HEX": "170151290000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 10579,
+        "SEM_TRADING_SYMBOL": "MARKSANS",
+        "SUBSCRIBE_HEX": "170153290000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 10599,
+        "SEM_TRADING_SYMBOL": "GUJGASLTD",
+        "SUBSCRIBE_HEX": "170167290000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 10604,
+        "SEM_TRADING_SYMBOL": "BHARTIARTL",
+        "SUBSCRIBE_HEX": "17016c290000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 10666,
+        "SEM_TRADING_SYMBOL": "PNB",
+        "SUBSCRIBE_HEX": "1701aa290000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 10726,
+        "SEM_TRADING_SYMBOL": "INDIAMART",
+        "SUBSCRIBE_HEX": "1701e6290000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 10738,
+        "SEM_TRADING_SYMBOL": "OFSS",
+        "SUBSCRIBE_HEX": "1701f2290000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 10794,
+        "SEM_TRADING_SYMBOL": "CANBK",
+        "SUBSCRIBE_HEX": "17012a2a0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 10925,
+        "SEM_TRADING_SYMBOL": "GODREJIND",
+        "SUBSCRIBE_HEX": "1701ad2a0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 10940,
+        "SEM_TRADING_SYMBOL": "DIVISLAB",
+        "SUBSCRIBE_HEX": "1701bc2a0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 10999,
+        "SEM_TRADING_SYMBOL": "MARUTI",
+        "SUBSCRIBE_HEX": "1701f72a0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 11184,
+        "SEM_TRADING_SYMBOL": "IDFCFIRSTB",
+        "SUBSCRIBE_HEX": "1701b02b0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 11195,
+        "SEM_TRADING_SYMBOL": "INDIGO",
+        "SUBSCRIBE_HEX": "1701bb2b0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 11236,
+        "SEM_TRADING_SYMBOL": "JSL",
+        "SUBSCRIBE_HEX": "1701e42b0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 11262,
+        "SEM_TRADING_SYMBOL": "IGL",
+        "SUBSCRIBE_HEX": "1701fe2b0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 11287,
+        "SEM_TRADING_SYMBOL": "UPL",
+        "SUBSCRIBE_HEX": "1701172c0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 11351,
+        "SEM_TRADING_SYMBOL": "PETRONET",
+        "SUBSCRIBE_HEX": "1701572c0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 11373,
+        "SEM_TRADING_SYMBOL": "BIOCON",
+        "SUBSCRIBE_HEX": "17016d2c0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 11377,
+        "SEM_TRADING_SYMBOL": "MAHABANK",
+        "SUBSCRIBE_HEX": "1701712c0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 11403,
+        "SEM_TRADING_SYMBOL": "POONAWALLA",
+        "SUBSCRIBE_HEX": "17018b2c0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 11483,
+        "SEM_TRADING_SYMBOL": "LT",
+        "SUBSCRIBE_HEX": "1701db2c0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 11532,
+        "SEM_TRADING_SYMBOL": "ULTRACEMCO",
+        "SUBSCRIBE_HEX": "17010c2d0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 11536,
+        "SEM_TRADING_SYMBOL": "TCS",
+        "SUBSCRIBE_HEX": "1701102d0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 11543,
+        "SEM_TRADING_SYMBOL": "COFORGE",
+        "SUBSCRIBE_HEX": "1701172d0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 11630,
+        "SEM_TRADING_SYMBOL": "NTPC",
+        "SUBSCRIBE_HEX": "17016e2d0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 11654,
+        "SEM_TRADING_SYMBOL": "LALPATHLAB",
+        "SUBSCRIBE_HEX": "1701862d0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 11703,
+        "SEM_TRADING_SYMBOL": "ALKEM",
+        "SUBSCRIBE_HEX": "1701b72d0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 11723,
+        "SEM_TRADING_SYMBOL": "JSWSTEEL",
+        "SUBSCRIBE_HEX": "1701cb2d0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1185,
+        "SEM_TRADING_SYMBOL": "AMBER",
+        "SUBSCRIBE_HEX": "1701a1040000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1186,
+        "SEM_TRADING_SYMBOL": "GLAND",
+        "SUBSCRIBE_HEX": "1701a2040000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 11872,
+        "SEM_TRADING_SYMBOL": "GRANULES",
+        "SUBSCRIBE_HEX": "1701602e0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 12018,
+        "SEM_TRADING_SYMBOL": "SUZLON",
+        "SUBSCRIBE_HEX": "1701f22e0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1232,
+        "SEM_TRADING_SYMBOL": "GRASIM",
+        "SUBSCRIBE_HEX": "1701d0040000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1247,
+        "SEM_TRADING_SYMBOL": "GSFC",
+        "SUBSCRIBE_HEX": "1701df040000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1250,
+        "SEM_TRADING_SYMBOL": "CASTROLIND",
+        "SUBSCRIBE_HEX": "1701e2040000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1270,
+        "SEM_TRADING_SYMBOL": "AMBUJACEM",
+        "SUBSCRIBE_HEX": "1701f6040000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 13,
+        "SEM_TRADING_SYMBOL": "ABB",
+        "SUBSCRIBE_HEX": "17010d000000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 13147,
+        "SEM_TRADING_SYMBOL": "PVRINOX",
+        "SUBSCRIBE_HEX": "17015b330000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 13270,
+        "SEM_TRADING_SYMBOL": "JKCEMENT",
+        "SUBSCRIBE_HEX": "1701d6330000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 13285,
+        "SEM_TRADING_SYMBOL": "M&MFIN",
+        "SUBSCRIBE_HEX": "1701e5330000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 13310,
+        "SEM_TRADING_SYMBOL": "KEI",
+        "SUBSCRIBE_HEX": "1701fe330000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1333,
+        "SEM_TRADING_SYMBOL": "HDFCBANK",
+        "SUBSCRIBE_HEX": "170135050000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1336,
+        "SEM_TRADING_SYMBOL": "HEG",
+        "SUBSCRIBE_HEX": "170138050000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 13404,
+        "SEM_TRADING_SYMBOL": "SUNTV",
+        "SUBSCRIBE_HEX": "17015c340000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1348,
+        "SEM_TRADING_SYMBOL": "HEROMOTOCO",
+        "SUBSCRIBE_HEX": "170144050000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 13538,
+        "SEM_TRADING_SYMBOL": "TECHM",
+        "SUBSCRIBE_HEX": "1701e2340000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 13611,
+        "SEM_TRADING_SYMBOL": "IRCTC",
+        "SUBSCRIBE_HEX": "17012b350000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1363,
+        "SEM_TRADING_SYMBOL": "HINDALCO",
+        "SUBSCRIBE_HEX": "170153050000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 13751,
+        "SEM_TRADING_SYMBOL": "NAUKRI",
+        "SUBSCRIBE_HEX": "1701b7350000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 13786,
+        "SEM_TRADING_SYMBOL": "TORNTPOWER",
+        "SUBSCRIBE_HEX": "1701da350000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1394,
+        "SEM_TRADING_SYMBOL": "HINDUNILVR",
+        "SUBSCRIBE_HEX": "170172050000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1424,
+        "SEM_TRADING_SYMBOL": "HINDZINC",
+        "SUBSCRIBE_HEX": "170190050000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 14299,
+        "SEM_TRADING_SYMBOL": "PFC",
+        "SUBSCRIBE_HEX": "1701db370000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 14413,
+        "SEM_TRADING_SYMBOL": "PAGEIND",
+        "SUBSCRIBE_HEX": "17014d380000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 14418,
+        "SEM_TRADING_SYMBOL": "ASTRAL",
+        "SUBSCRIBE_HEX": "170152380000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 14435,
+        "SEM_TRADING_SYMBOL": "JKTYRE",
+        "SUBSCRIBE_HEX": "170163380000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 14552,
+        "SEM_TRADING_SYMBOL": "PHOENIXLTD",
+        "SUBSCRIBE_HEX": "1701d8380000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 14672,
+        "SEM_TRADING_SYMBOL": "NAVINFLUOR",
+        "SUBSCRIBE_HEX": "170150390000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 14732,
+        "SEM_TRADING_SYMBOL": "DLF",
+        "SUBSCRIBE_HEX": "17018c390000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1491,
+        "SEM_TRADING_SYMBOL": "IFCI",
+        "SUBSCRIBE_HEX": "1701d3050000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 14947,
+        "SEM_TRADING_SYMBOL": "MOTILALOFS",
+        "SUBSCRIBE_HEX": "1701633a0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 14977,
+        "SEM_TRADING_SYMBOL": "POWERGRID",
+        "SUBSCRIBE_HEX": "1701813a0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 15083,
+        "SEM_TRADING_SYMBOL": "ADANIPORTS",
+        "SUBSCRIBE_HEX": "1701eb3a0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1512,
+        "SEM_TRADING_SYMBOL": "INDHOTEL",
+        "SUBSCRIBE_HEX": "1701e8050000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 15141,
+        "SEM_TRADING_SYMBOL": "COLPAL",
+        "SUBSCRIBE_HEX": "1701253b0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 15146,
+        "SEM_TRADING_SYMBOL": "JYOTHYLAB",
+        "SUBSCRIBE_HEX": "17012a3b0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1515,
+        "SEM_TRADING_SYMBOL": "INDIACEM",
+        "SUBSCRIBE_HEX": "1701eb050000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 15283,
+        "SEM_TRADING_SYMBOL": "KNRCON",
+        "SUBSCRIBE_HEX": "1701b33b0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 15313,
+        "SEM_TRADING_SYMBOL": "IRB",
+        "SUBSCRIBE_HEX": "1701d13b0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 15332,
+        "SEM_TRADING_SYMBOL": "NMDC",
+        "SUBSCRIBE_HEX": "1701e43b0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 157,
+        "SEM_TRADING_SYMBOL": "APOLLOHOSP",
+        "SUBSCRIBE_HEX": "17019d000000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1594,
+        "SEM_TRADING_SYMBOL": "INFY",
+        "SUBSCRIBE_HEX": "17013a060000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1621,
+        "SEM_TRADING_SYMBOL": "TATAINVEST",
+        "SUBSCRIBE_HEX": "170155060000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1624,
+        "SEM_TRADING_SYMBOL": "IOC",
+        "SUBSCRIBE_HEX": "170158060000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1627,
+        "SEM_TRADING_SYMBOL": "LINDEINDIA",
+        "SUBSCRIBE_HEX": "17015b060000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1628,
+        "SEM_TRADING_SYMBOL": "BECTORFOOD",
+        "SUBSCRIBE_HEX": "17015c060000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 163,
+        "SEM_TRADING_SYMBOL": "APOLLOTYRE",
+        "SUBSCRIBE_HEX": "1701a3000000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1630,
+        "SEM_TRADING_SYMBOL": "IONEXCHANG",
+        "SUBSCRIBE_HEX": "17015e060000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1633,
+        "SEM_TRADING_SYMBOL": "IPCALAB",
+        "SUBSCRIBE_HEX": "170161060000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1660,
+        "SEM_TRADING_SYMBOL": "ITC",
+        "SUBSCRIBE_HEX": "17017c060000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 16675,
+        "SEM_TRADING_SYMBOL": "BAJAJFINSV",
+        "SUBSCRIBE_HEX": "170123410000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 16713,
+        "SEM_TRADING_SYMBOL": "UBL",
+        "SUBSCRIBE_HEX": "170149410000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1672,
+        "SEM_TRADING_SYMBOL": "HGINFRA",
+        "SUBSCRIBE_HEX": "170188060000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1675,
+        "SEM_TRADING_SYMBOL": "ITI",
+        "SUBSCRIBE_HEX": "17018b060000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 16915,
+        "SEM_TRADING_SYMBOL": "ZFCVINDIA",
+        "SUBSCRIBE_HEX": "170113420000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 17029,
+        "SEM_TRADING_SYMBOL": "PATANJALI",
+        "SUBSCRIBE_HEX": "170185420000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 17094,
+        "SEM_TRADING_SYMBOL": "CROMPTON",
+        "SUBSCRIBE_HEX": "1701c6420000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1726,
+        "SEM_TRADING_SYMBOL": "JBCHEPHARM",
+        "SUBSCRIBE_HEX": "1701be060000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 17388,
+        "SEM_TRADING_SYMBOL": "ADANIPOWER",
+        "SUBSCRIBE_HEX": "1701ec430000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 17438,
+        "SEM_TRADING_SYMBOL": "OIL",
+        "SUBSCRIBE_HEX": "17011e440000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 17534,
+        "SEM_TRADING_SYMBOL": "MGL",
+        "SUBSCRIBE_HEX": "17017e440000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 17875,
+        "SEM_TRADING_SYMBOL": "GODREJPROP",
+        "SUBSCRIBE_HEX": "1701d3450000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 17903,
+        "SEM_TRADING_SYMBOL": "ABBOTINDIA",
+        "SUBSCRIBE_HEX": "1701ef450000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 17939,
+        "SEM_TRADING_SYMBOL": "HINDCOPPER",
+        "SUBSCRIBE_HEX": "170113460000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 17963,
+        "SEM_TRADING_SYMBOL": "NESTLEIND",
+        "SUBSCRIBE_HEX": "17012b460000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 17971,
+        "SEM_TRADING_SYMBOL": "SBICARD",
+        "SUBSCRIBE_HEX": "170133460000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 18096,
+        "SEM_TRADING_SYMBOL": "JUBLFOOD",
+        "SUBSCRIBE_HEX": "1701b0460000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 18142,
+        "SEM_TRADING_SYMBOL": "EMMBI",
+        "SUBSCRIBE_HEX": "1701de460000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 18365,
+        "SEM_TRADING_SYMBOL": "PERSISTENT",
+        "SUBSCRIBE_HEX": "1701bd470000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 18391,
+        "SEM_TRADING_SYMBOL": "RBLBANK",
+        "SUBSCRIBE_HEX": "1701d7470000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 18564,
+        "SEM_TRADING_SYMBOL": "LTTS",
+        "SUBSCRIBE_HEX": "170184480000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 18652,
+        "SEM_TRADING_SYMBOL": "ICICIPRULI",
+        "SUBSCRIBE_HEX": "1701dc480000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 18822,
+        "SEM_TRADING_SYMBOL": "ENDURANCE",
+        "SUBSCRIBE_HEX": "170186490000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 18883,
+        "SEM_TRADING_SYMBOL": "SJVN",
+        "SUBSCRIBE_HEX": "1701c3490000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1901,
+        "SEM_TRADING_SYMBOL": "CUMMINSIND",
+        "SUBSCRIBE_HEX": "17016d070000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 19061,
+        "SEM_TRADING_SYMBOL": "MANAPPURAM",
+        "SUBSCRIBE_HEX": "1701754a0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1922,
+        "SEM_TRADING_SYMBOL": "KOTAKBANK",
+        "SUBSCRIBE_HEX": "170182070000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 19585,
+        "SEM_TRADING_SYMBOL": "BSE",
+        "SUBSCRIBE_HEX": "1701814c0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1964,
+        "SEM_TRADING_SYMBOL": "TRENT",
+        "SUBSCRIBE_HEX": "1701ac070000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 19731,
+        "SEM_TRADING_SYMBOL": "GPPL",
+        "SUBSCRIBE_HEX": "1701134d0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 19913,
+        "SEM_TRADING_SYMBOL": "DMART",
+        "SUBSCRIBE_HEX": "1701c94d0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 19943,
+        "SEM_TRADING_SYMBOL": "DEEPAKNTR",
+        "SUBSCRIBE_HEX": "1701e74d0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 1997,
+        "SEM_TRADING_SYMBOL": "LICHSGFIN",
+        "SUBSCRIBE_HEX": "1701cd070000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 2029,
+        "SEM_TRADING_SYMBOL": "IRFC",
+        "SUBSCRIBE_HEX": "1701ed070000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 20293,
+        "SEM_TRADING_SYMBOL": "TATATECH",
+        "SUBSCRIBE_HEX": "1701454f0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 20302,
+        "SEM_TRADING_SYMBOL": "PRESTIGE",
+        "SUBSCRIBE_HEX": "17014e4f0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 2031,
+        "SEM_TRADING_SYMBOL": "M&M",
+        "SUBSCRIBE_HEX": "1701ef070000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 20374,
+        "SEM_TRADING_SYMBOL": "COALINDIA",
+        "SUBSCRIBE_HEX": "1701964f0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 2043,
+        "SEM_TRADING_SYMBOL": "RAMCOCEM",
+        "SUBSCRIBE_HEX": "1701fb070000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 2048,
+        "SEM_TRADING_SYMBOL": "INDIGOPNTS",
+        "SUBSCRIBE_HEX": "170100080000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 20825,
+        "SEM_TRADING_SYMBOL": "HUDCO",
+        "SUBSCRIBE_HEX": "170159510000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 2085,
+        "SEM_TRADING_SYMBOL": "MAHSCOOTER",
+        "SUBSCRIBE_HEX": "170125080000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 2088,
+        "SEM_TRADING_SYMBOL": "MAHSEAMLES",
+        "SUBSCRIBE_HEX": "170128080000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 21154,
+        "SEM_TRADING_SYMBOL": "ERIS",
+        "SUBSCRIBE_HEX": "1701a2520000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 21174,
+        "SEM_TRADING_SYMBOL": "CDSL",
+        "SUBSCRIBE_HEX": "1701b6520000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 212,
+        "SEM_TRADING_SYMBOL": "ASHOKLEY",
+        "SUBSCRIBE_HEX": "1701d4000000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 21238,
+        "SEM_TRADING_SYMBOL": "AUBANK",
+        "SUBSCRIBE_HEX": "1701f6520000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 2124,
+        "SEM_TRADING_SYMBOL": "MASTEK",
+        "SUBSCRIBE_HEX": "17014c080000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 2142,
+        "SEM_TRADING_SYMBOL": "MFSL",
+        "SUBSCRIBE_HEX": "17015e080000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 21469,
+        "SEM_TRADING_SYMBOL": "OPTIEMUS",
+        "SUBSCRIBE_HEX": "1701dd530000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 21508,
+        "SEM_TRADING_SYMBOL": "COCHINSHIP",
+        "SUBSCRIBE_HEX": "170104540000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 21614,
+        "SEM_TRADING_SYMBOL": "ABCAPITAL",
+        "SUBSCRIBE_HEX": "17016e540000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 21690,
+        "SEM_TRADING_SYMBOL": "DIXON",
+        "SUBSCRIBE_HEX": "1701ba540000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 21770,
+        "SEM_TRADING_SYMBOL": "ICICIGI",
+        "SUBSCRIBE_HEX": "17010a550000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 21808,
+        "SEM_TRADING_SYMBOL": "SBILIFE",
+        "SUBSCRIBE_HEX": "170130550000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 2181,
+        "SEM_TRADING_SYMBOL": "BOSCHLTD",
+        "SUBSCRIBE_HEX": "170185080000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 21951,
+        "SEM_TRADING_SYMBOL": "HFCL",
+        "SUBSCRIBE_HEX": "1701bf550000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 22,
+        "SEM_TRADING_SYMBOL": "ACC",
+        "SUBSCRIBE_HEX": "170116000000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 220,
+        "SEM_TRADING_SYMBOL": "IEX",
+        "SUBSCRIBE_HEX": "1701dc000000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 22377,
+        "SEM_TRADING_SYMBOL": "MAXHEALTH",
+        "SUBSCRIBE_HEX": "170169570000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 2263,
+        "SEM_TRADING_SYMBOL": "BANDHANBNK",
+        "SUBSCRIBE_HEX": "1701d7080000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 2277,
+        "SEM_TRADING_SYMBOL": "MRF",
+        "SUBSCRIBE_HEX": "1701e5080000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 2303,
+        "SEM_TRADING_SYMBOL": "HAL",
+        "SUBSCRIBE_HEX": "1701ff080000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 236,
+        "SEM_TRADING_SYMBOL": "ASIANPAINT",
+        "SUBSCRIBE_HEX": "1701ec000000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 23650,
+        "SEM_TRADING_SYMBOL": "MUTHOOTFIN",
+        "SUBSCRIBE_HEX": "1701625c0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 24184,
+        "SEM_TRADING_SYMBOL": "PIIND",
+        "SUBSCRIBE_HEX": "1701785e0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 24225,
+        "SEM_TRADING_SYMBOL": "RELAXO",
+        "SUBSCRIBE_HEX": "1701a15e0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 24538,
+        "SEM_TRADING_SYMBOL": "MAITHANALL",
+        "SUBSCRIBE_HEX": "1701da5f0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 2475,
+        "SEM_TRADING_SYMBOL": "ONGC",
+        "SUBSCRIBE_HEX": "1701ab090000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 25,
+        "SEM_TRADING_SYMBOL": "ADANIENT",
+        "SUBSCRIBE_HEX": "170119000000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 25844,
+        "SEM_TRADING_SYMBOL": "HYUNDAI",
+        "SUBSCRIBE_HEX": "1701f4640000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 25907,
+        "SEM_TRADING_SYMBOL": "WAAREEENER",
+        "SUBSCRIBE_HEX": "170133650000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 2606,
+        "SEM_TRADING_SYMBOL": "LEMONTREE",
+        "SUBSCRIBE_HEX": "17012e0a0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 263,
+        "SEM_TRADING_SYMBOL": "ATUL",
+        "SUBSCRIBE_HEX": "170107010000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 2664,
+        "SEM_TRADING_SYMBOL": "PIDILITIND",
+        "SUBSCRIBE_HEX": "1701680a0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 27066,
+        "SEM_TRADING_SYMBOL": "SWIGGY",
+        "SUBSCRIBE_HEX": "1701ba690000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 275,
+        "SEM_TRADING_SYMBOL": "AUROPHARMA",
+        "SUBSCRIBE_HEX": "170113010000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 277,
+        "SEM_TRADING_SYMBOL": "GICRE",
+        "SUBSCRIBE_HEX": "170115010000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 2792,
+        "SEM_TRADING_SYMBOL": "EASEMYTRIP",
+        "SUBSCRIBE_HEX": "1701e80a0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 2885,
+        "SEM_TRADING_SYMBOL": "RELIANCE",
+        "SUBSCRIBE_HEX": "1701450b0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 29135,
+        "SEM_TRADING_SYMBOL": "INDUSTOWER",
+        "SUBSCRIBE_HEX": "1701cf710000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 2955,
+        "SEM_TRADING_SYMBOL": "KALYANKJIL",
+        "SUBSCRIBE_HEX": "17018b0b0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 2963,
+        "SEM_TRADING_SYMBOL": "SAIL",
+        "SUBSCRIBE_HEX": "1701930b0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 29962,
+        "SEM_TRADING_SYMBOL": "JUSTDIAL",
+        "SUBSCRIBE_HEX": "17010a750000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 30108,
+        "SEM_TRADING_SYMBOL": "ABFRL",
+        "SUBSCRIBE_HEX": "17019c750000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 3045,
+        "SEM_TRADING_SYMBOL": "SBIN",
+        "SUBSCRIBE_HEX": "1701e50b0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 3063,
+        "SEM_TRADING_SYMBOL": "VEDL",
+        "SUBSCRIBE_HEX": "1701f70b0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 3103,
+        "SEM_TRADING_SYMBOL": "SHREECEM",
+        "SUBSCRIBE_HEX": "17011f0c0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 31181,
+        "SEM_TRADING_SYMBOL": "MCX",
+        "SUBSCRIBE_HEX": "1701cd790000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 312,
+        "SEM_TRADING_SYMBOL": "TIINDIA",
+        "SUBSCRIBE_HEX": "170138010000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 3150,
+        "SEM_TRADING_SYMBOL": "SIEMENS",
+        "SUBSCRIBE_HEX": "17014e0c0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 317,
+        "SEM_TRADING_SYMBOL": "BAJFINANCE",
+        "SUBSCRIBE_HEX": "17013d010000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 3220,
+        "SEM_TRADING_SYMBOL": "LODHA",
+        "SUBSCRIBE_HEX": "1701940c0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 3273,
+        "SEM_TRADING_SYMBOL": "SRF",
+        "SUBSCRIBE_HEX": "1701c90c0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 3329,
+        "SEM_TRADING_SYMBOL": "ISGEC",
+        "SUBSCRIBE_HEX": "1701010d0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 3351,
+        "SEM_TRADING_SYMBOL": "SUNPHARMA",
+        "SUBSCRIBE_HEX": "1701170d0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 341,
+        "SEM_TRADING_SYMBOL": "BALRAMCHIN",
+        "SUBSCRIBE_HEX": "170155010000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 3411,
+        "SEM_TRADING_SYMBOL": "TATAELXSI",
+        "SUBSCRIBE_HEX": "1701530d0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 342,
+        "SEM_TRADING_SYMBOL": "CAMS",
+        "SUBSCRIBE_HEX": "170156010000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 3426,
+        "SEM_TRADING_SYMBOL": "TATAPOWER",
+        "SUBSCRIBE_HEX": "1701620d0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 3432,
+        "SEM_TRADING_SYMBOL": "TATACONSUM",
+        "SUBSCRIBE_HEX": "1701680d0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 3499,
+        "SEM_TRADING_SYMBOL": "TATASTEEL",
+        "SUBSCRIBE_HEX": "1701ab0d0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 3506,
+        "SEM_TRADING_SYMBOL": "TITAN",
+        "SUBSCRIBE_HEX": "1701b20d0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 3518,
+        "SEM_TRADING_SYMBOL": "TORNTPHARM",
+        "SUBSCRIBE_HEX": "1701be0d0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 371,
+        "SEM_TRADING_SYMBOL": "BATAINDIA",
+        "SUBSCRIBE_HEX": "170173010000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 3718,
+        "SEM_TRADING_SYMBOL": "VOLTAS",
+        "SUBSCRIBE_HEX": "1701860e0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 3721,
+        "SEM_TRADING_SYMBOL": "TATACOMM",
+        "SUBSCRIBE_HEX": "1701890e0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 3787,
+        "SEM_TRADING_SYMBOL": "WIPRO",
+        "SUBSCRIBE_HEX": "1701cb0e0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 3812,
+        "SEM_TRADING_SYMBOL": "ZEEL",
+        "SUBSCRIBE_HEX": "1701e40e0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 383,
+        "SEM_TRADING_SYMBOL": "BEL",
+        "SUBSCRIBE_HEX": "17017f010000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 385,
+        "SEM_TRADING_SYMBOL": "MAHLOG",
+        "SUBSCRIBE_HEX": "170181010000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 404,
+        "SEM_TRADING_SYMBOL": "BERGEPAINT",
+        "SUBSCRIBE_HEX": "170194010000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 422,
+        "SEM_TRADING_SYMBOL": "BHARATFORG",
+        "SUBSCRIBE_HEX": "1701a6010000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 4244,
+        "SEM_TRADING_SYMBOL": "HDFCAMC",
+        "SUBSCRIBE_HEX": "170194100000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 4306,
+        "SEM_TRADING_SYMBOL": "SHRIRAMFIN",
+        "SUBSCRIBE_HEX": "1701d2100000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 438,
+        "SEM_TRADING_SYMBOL": "BHEL",
+        "SUBSCRIBE_HEX": "1701b6010000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 4503,
+        "SEM_TRADING_SYMBOL": "MPHASIS",
+        "SUBSCRIBE_HEX": "170197110000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 4668,
+        "SEM_TRADING_SYMBOL": "BANKBARODA",
+        "SUBSCRIBE_HEX": "17013c120000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 467,
+        "SEM_TRADING_SYMBOL": "HDFCLIFE",
+        "SUBSCRIBE_HEX": "1701d3010000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 4684,
+        "SEM_TRADING_SYMBOL": "SONACOMS",
+        "SUBSCRIBE_HEX": "17014c120000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 4717,
+        "SEM_TRADING_SYMBOL": "GAIL",
+        "SUBSCRIBE_HEX": "17016d120000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 4745,
+        "SEM_TRADING_SYMBOL": "BANKINDIA",
+        "SUBSCRIBE_HEX": "170189120000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 4749,
+        "SEM_TRADING_SYMBOL": "CONCOR",
+        "SUBSCRIBE_HEX": "17018d120000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 4847,
+        "SEM_TRADING_SYMBOL": "KIMS",
+        "SUBSCRIBE_HEX": "1701ef120000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 4907,
+        "SEM_TRADING_SYMBOL": "ENGINERSIN",
+        "SUBSCRIBE_HEX": "17012b130000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 4934,
+        "SEM_TRADING_SYMBOL": "IPL",
+        "SUBSCRIBE_HEX": "170146130000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 4963,
+        "SEM_TRADING_SYMBOL": "ICICIBANK",
+        "SUBSCRIBE_HEX": "170163130000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 5258,
+        "SEM_TRADING_SYMBOL": "INDUSINDBK",
+        "SUBSCRIBE_HEX": "17018a140000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 526,
+        "SEM_TRADING_SYMBOL": "BPCL",
+        "SUBSCRIBE_HEX": "17010e020000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 547,
+        "SEM_TRADING_SYMBOL": "BRITANNIA",
+        "SUBSCRIBE_HEX": "170123020000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 5633,
+        "SEM_TRADING_SYMBOL": "J&KBANK",
+        "SUBSCRIBE_HEX": "170101160000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 5701,
+        "SEM_TRADING_SYMBOL": "CUB",
+        "SUBSCRIBE_HEX": "170145160000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 5748,
+        "SEM_TRADING_SYMBOL": "CYIENT",
+        "SUBSCRIBE_HEX": "170174160000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 583,
+        "SEM_TRADING_SYMBOL": "CANFINHOME",
+        "SUBSCRIBE_HEX": "170147020000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 5900,
+        "SEM_TRADING_SYMBOL": "AXISBANK",
+        "SUBSCRIBE_HEX": "17010c170000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 628,
+        "SEM_TRADING_SYMBOL": "CESC",
+        "SUBSCRIBE_HEX": "170174020000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 6364,
+        "SEM_TRADING_SYMBOL": "NATIONALUM",
+        "SUBSCRIBE_HEX": "1701dc180000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 637,
+        "SEM_TRADING_SYMBOL": "CHAMBLFERT",
+        "SUBSCRIBE_HEX": "17017d020000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 6733,
+        "SEM_TRADING_SYMBOL": "JINDALSTEL",
+        "SUBSCRIBE_HEX": "17014d1a0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 676,
+        "SEM_TRADING_SYMBOL": "EXIDEIND",
+        "SUBSCRIBE_HEX": "1701a4020000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 694,
+        "SEM_TRADING_SYMBOL": "CIPLA",
+        "SUBSCRIBE_HEX": "1701b6020000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 6994,
+        "SEM_TRADING_SYMBOL": "BSOFT",
+        "SUBSCRIBE_HEX": "1701521b0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 7,
+        "SEM_TRADING_SYMBOL": "AARTIIND",
+        "SUBSCRIBE_HEX": "170107000000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 7229,
+        "SEM_TRADING_SYMBOL": "HCLTECH",
+        "SUBSCRIBE_HEX": "17013d1c0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 739,
+        "SEM_TRADING_SYMBOL": "COROMANDEL",
+        "SUBSCRIBE_HEX": "1701e3020000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 7406,
+        "SEM_TRADING_SYMBOL": "GLENMARK",
+        "SUBSCRIBE_HEX": "1701ee1c0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 772,
+        "SEM_TRADING_SYMBOL": "DABUR",
+        "SUBSCRIBE_HEX": "170104030000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 7929,
+        "SEM_TRADING_SYMBOL": "ZYDUSLIFE",
+        "SUBSCRIBE_HEX": "1701f91e0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 8075,
+        "SEM_TRADING_SYMBOL": "DALBHARAT",
+        "SUBSCRIBE_HEX": "17018b1f0000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 8479,
+        "SEM_TRADING_SYMBOL": "TVSMOTOR",
+        "SUBSCRIBE_HEX": "17011f210000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 8596,
+        "SEM_TRADING_SYMBOL": "MSUMI",
+        "SUBSCRIBE_HEX": "170194210000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 881,
+        "SEM_TRADING_SYMBOL": "DRREDDY",
+        "SUBSCRIBE_HEX": "170171030000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 910,
+        "SEM_TRADING_SYMBOL": "EICHERMOT",
+        "SUBSCRIBE_HEX": "17018e030000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 913,
+        "SEM_TRADING_SYMBOL": "EQUITASBNK",
+        "SUBSCRIBE_HEX": "170191030000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 916,
+        "SEM_TRADING_SYMBOL": "EIDPARRY",
+        "SUBSCRIBE_HEX": "170194030000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 9362,
+        "SEM_TRADING_SYMBOL": "CAMPUS",
+        "SUBSCRIBE_HEX": "170192240000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 9552,
+        "SEM_TRADING_SYMBOL": "RVNL",
+        "SUBSCRIBE_HEX": "170150250000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 958,
+        "SEM_TRADING_SYMBOL": "ESCORTS",
+        "SUBSCRIBE_HEX": "1701be030000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 9581,
+        "SEM_TRADING_SYMBOL": "METROPOLIS",
+        "SUBSCRIBE_HEX": "17016d250000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 9590,
+        "SEM_TRADING_SYMBOL": "POLYCAB",
+        "SUBSCRIBE_HEX": "170176250000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 9599,
+        "SEM_TRADING_SYMBOL": "DELHIVERY",
+        "SUBSCRIBE_HEX": "17017f250000"
+    },
+    {
+        "SEM_SMST_SECURITY_ID": 9683,
+        "SEM_TRADING_SYMBOL": "KPITTECH",
+        "SUBSCRIBE_HEX": "1701d3250000"
+    }
+]
